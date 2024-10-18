@@ -1,2 +1,3 @@
 # MajorProject
-Dental x-ray annotation using yolov5
+Dental x-ray annotation using yolov8
+
